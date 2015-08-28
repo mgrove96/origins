@@ -1,0 +1,52 @@
+body {
+  font-family: Georgia;
+  line-height: 1.5;
+  font-size: 120%;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: 1px;
+	color: white;
+
+	background: url('../images/slangglide_splash7.jpg');
+  /* Full Page Background Receipe */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container {
+  width: 400px;
+  padding: 15px;
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+h1 {
+  font-family: Verdana; 
+  font-weight: bold;
+	font-size: 30px;
+	margin-bottom: -20px;
+  letter-spacing: 1px;
+  color: white;
+}
+
+h2 {
+  font-family: Verdana; 
+	font-size: 20px;
+  line-height: 33px;
+  font-weight: normal;
+  color: #4ECDC6;
+}
+
+a {
+	color: #4ECDC6;
+	text-decoration: none;
+}
+
+a:hover {
+  color: #FCD682;
+}
+
+
+
